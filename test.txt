@@ -1,0 +1,32 @@
+0 Tom green 5
+0 Tim blue 3
+0 Tammy blue 2
+0 Tanna white 6
+0 Filip green 5
+0 Marko purple 6
+0 Nikola silver 2
+0 Andrija grey 1
+0 Viktor red 3
+0 Luka pink 5
+0 Petar black 6
+0 Alojzije white 8
+0 Tores blue 3
+0 Mladen brown 4
+1 Luke 4
+1 Linda 10
+1 Lucy 4
+1 Nina 3
+1 Nevena 2
+1 Emilija 5
+1 Rastko 1
+1 Milan 3
+1 Vladislav 6
+1 Poter 4
+1 Hari 7
+1 Hagrid 8
+1 Alimpije 10
+1 Ivana 2
+1 Ana 3
+1 Marija 5
+1 Uros 3
+1 Milica 7
