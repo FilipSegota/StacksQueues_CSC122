@@ -17,5 +17,6 @@ Create a program that simulates a factory that makes and sells towels. The towel
   - Simulation runs as long as it's possible:
     - If there are builders left, they create towels as long as there's room in the stack. If there's no room, the builder is put at the end of the queue
     - If there are buyers left, they buy towels as long as there are towels in the stack. If there's none, the buyer is put at the end of the queue
+  - Displays the result of each event
   - There are exception classes for stacks and queues underflows and overflows
     - There is code in the Assembly to handle the exceptions from the stacks and queues
