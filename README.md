@@ -20,3 +20,4 @@ Create a program that simulates a factory that makes and sells towels. The towel
   - Displays the result of each event
   - There are exception classes for stacks and queues underflows and overflows
     - There is code in the Assembly to handle the exceptions from the stacks and queues
+  - There is one test file (test.txt)
