@@ -5,7 +5,7 @@ Filip Segota
 **Class:**
 CSC 122 (Programming 2), Fall 2020  
 **Assignment:**
-Stacks and Queues Assignment 
+Stacks and Queues Lab
 
 ## Overview
 Create a program that simulates a factory that makes and sells towels. The towels only differ by color. The creators of the towels are subcontractors and they report each day with a certain number of towels, all of the same color. The buyers also come in each day wanting to buy towels (color does not matter). The system alternates between processing a creator and a buyer. The towels are placed on a stack and retrieved off the stack. The stack only has a specific amount of room. If there is no room for a creator to add created towels, they place what there is room for and then go back to the end of the creator line with the rest of the towels. If there are not enough towels available for a buyer, they take what remains and then go to the end of the buyer line to get the other ones. The system ends when all that can be processed has been processed.
